@@ -1,17 +1,6 @@
----
-title: 流水线工厂陷阱
-commits: true
-copyright: true
-passage_end: true
-categories: 乌金向日葵
-description: 时间-娱乐，日常接触内容。
-abbrlink: 4f75a12e
-date: 2020-10-02 17:05:15
-tags:
-top:
-keywords:
----
-序：
+## 流水线工厂陷阱
+
+### 序
 
 工厂自来各个专业领域的中专生有很多，不过听说大专的流水工在华为是很多的，从招聘上看确实如此，底薪高于富士康两倍多，学历要求大专，美其名曰促进了社会基层制造业工职学历提升。原因推测：
 
