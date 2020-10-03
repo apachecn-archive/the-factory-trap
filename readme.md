@@ -55,6 +55,8 @@
 * [知乎3万赞！那些正在毁掉年轻人的“贫困陷阱”！【歌白】](https://www.bilibili.com/video/BV15y4y1y7XA/)
 * [端点星-梦雨：无悔选择 —— 从中大硕士到流水线女工](https://terminus2049.github.io/archive/2018/07/07/Shen-Mengyu.html)
 
+---
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
 
 
 <!--在《美丽新世界》小说中领导者有意强制通过胚胎，进行划分不同种族人群阶级，甚至连思维都如同程序般被写死的，不具有可塑性，下等种族也能无脑沉浸于欢乐；而我们不是，我们能够感知痛苦想要改变，因此我们的人性具有可塑性。-->
